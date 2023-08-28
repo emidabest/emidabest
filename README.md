@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emidabest
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently discovering programming languages
-- 💞️ I’m seeking for interesting programs!
+- 💞️ I’m seeking for interesting projects!
 - 📫 How to reach me ...
 
 <!---
