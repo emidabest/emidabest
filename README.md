@@ -1,6 +1,9 @@
 Nihao!👋 This is emi here 👀
+<bf/>
 Junior from China 🇨🇳 Shanghai 👈nice city
+<bf/>
 Still figurin cool techs of my Mac... 💻 🌟
+<bf/>
 And...nice 2 meet u ! 🤝
 
 <!---
