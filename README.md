@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @emidabest
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently discovering programming languages
-- 💞️ I’m seeking for interesting projects!
-- 📫 How to reach me ...
+Nihao!👋 This is emi here 👀
+Junior from China 🇨🇳 Shanghai 👈nice city
+Still figurin cool techs of my Mac... 💻 🌟
+And...nice 2 meet u ! 🤝
 
 <!---
 emidabest/emidabest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
